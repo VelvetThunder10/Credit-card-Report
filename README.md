@@ -20,7 +20,7 @@ This project provides an in-depth analysis of credit card transactions and custo
 
 ## Tools Used
 - *Excel* for data preparation and initial analysis.
-- *Power BI/Tableau* for creating interactive dashboards (please specify which tool you used).
+- *Power BI* for creating interactive dashboards (please specify which tool you used).
 
 ## Data
 The data used in this analysis includes credit card transaction records and customer demographics. Ensure that you have the necessary permissions and comply with data privacy regulations when using similar datasets.
